@@ -1,0 +1,15 @@
+torch
+transformers
+bertviz
+pandas
+sklearn
+bs4
+urllib3
+numpy
+datasets
+sentence_transformers
+jupyterlab
+ipywidgets
+accelerate
+xformers
+seaborn
